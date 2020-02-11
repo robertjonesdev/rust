@@ -9,8 +9,9 @@
 //mod loops;
 //mod functions;
 //mod pointer_ref;
-mod structs;
+//mod structs;
+mod cli;
 
 fn main() {
-    structs::run();
+    cli::run();
 }
